@@ -1,0 +1,6 @@
+playwright
+logging
+python-dotenv
+pytest
+pylint
+
